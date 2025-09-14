@@ -4,7 +4,7 @@ Atividade ponderada de implementação de Rede Neural Recorrente para predição
 
 ## 📊 Dataset
 
-**Fonte**: [Tesla Stock Price Dataset 2010-2024 (Kaggle)](https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-15jun2021)
+**Fonte**: [Tesla Stock Price Dataset 2010-2024 (Kaggle)](https://www.kaggle.com/datasets/hussainnasirkhan/tesla-stock-price-dataset-2010-2024?resource=download)
 
 ### Colunas
 
